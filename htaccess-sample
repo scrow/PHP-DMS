@@ -1,3 +1,16 @@
+#**
+#* htaccess-sample:
+#* 
+#* Sample Apache .htaccess file to secure the checkin.php file.
+#* 
+#* Use the htpasswd command to create the required .htpasswd file:
+#*   /usr/bin/htpasswd -c .htpasswd username
+#* and rename this file .htaccess
+#* 
+#* For enhanced security, you can also use this .htaccess file to secure the
+#* main application script, run.php.
+#**
+
 AuthUserFile .htpasswd
 AuthName "PHP-DMS Authentication"
 AuthType Basic

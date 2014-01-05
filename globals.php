@@ -1,9 +1,13 @@
 <?php
+/**
+ * globals.php:
+ * 
+ * Contains global variables for reference throughout the system.
+ * 
+ * See the README file for configuration information.
+ **/
 
 class globals {
-	/**
-	 * Contains global variables for reference throughout the system.
-	 **/
 
 	const baseFolder    = '/var/www/php-dms';
 	const dataFile      = '/var/www/php-dms/daynum.dat';
