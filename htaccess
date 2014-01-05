@@ -1,0 +1,7 @@
+AuthUserFile .htpasswd
+AuthName "PHP-DMS Authentication"
+AuthType Basic
+
+<Files checkin.php>
+	require valid-user
+</Files>

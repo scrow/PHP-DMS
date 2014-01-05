@@ -1,0 +1,21 @@
+
+========================================================================
+
+WHAT IS THIS MESSAGE?
+
+This message was automatically transmitted by a system called a Dead
+Man's Switch (DMS).  In this context, a DMS is a system designed to
+periodically check in with the owner via e-mail.  If the owner does not
+acknowledge after a pre-determined period of time, it is assumed that
+the owner is incapacitated, deceased, or otherwise cannot communicate.
+
+Messages from a DMS may include important information for business
+associates, friends, and family of the DMS owner.  This may be the only
+message you receive from this system, or additional messages may be
+forthcoming.  You should continue to monitor the e-mail address to
+which this message was addressed, including a close check of any spam
+or junk mail folders, to ensure all future messages are received.
+
+This system will generally transmit messages at the same time each day.
+
+========================================================================
