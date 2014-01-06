@@ -39,7 +39,9 @@ by your web server.
 CONFIGURATION
 =============
 All configuration variables reside in the "globals.php" file.  This is 
-the only file most users will need to edit.  The parameters are:
+the only file most users will need to edit.  To start, copy or rename
+the "gobals.php.SAMPLE" file to "globals.php" and edit the following
+configuration values:
 
 baseFolder:     The full path to the installation directory
 dataFile:       The full path and filename of the daynum.dat file
@@ -56,9 +58,6 @@ webPath:        The full web address that corresponds to the location
 ownerMail:      The e-mail address to which check-in messages should go.
 mailFrom:       The "From" address for all PHP-DMS e-mails.
 subjectPrefix:  The prefix for the subject line of all messages.
-
-If "daynum.dat" and "token.dat" do not exist, create them.  An initial 
-value of "0" should be the only thing in the files.
 
 
 MESSAGE FOLDER STRUCTURE
@@ -161,6 +160,4 @@ are sent out.
 FEEDBACK AND SUGGESTIONS
 ========================
 Feedback and suggestions are welcome via e-mail to scrow@sdf.org.
-
-
 
