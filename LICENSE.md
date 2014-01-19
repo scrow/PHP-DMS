@@ -9,9 +9,7 @@ Released 04-Jan-2014
 
 ## License ##
 
-This work is published under a
-  __CREATIVE COMMONS  Attribution-ShareAlike 4.0 International (CC BY-NA-SA 4.0)__
-license under the terms available for viewing here:
+This work is published under a  __CREATIVE COMMONS  Attribution-ShareAlike 4.0 International (CC BY-NA-SA 4.0)__ license under the terms available for viewing here:
 
 <http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
